@@ -1,0 +1,16 @@
+C:\Users\Eterna\source\repos\Novio\bin\Debug\netcoreapp3.1\Novio.exe
+C:\Users\Eterna\source\repos\Novio\bin\Debug\netcoreapp3.1\Novio.deps.json
+C:\Users\Eterna\source\repos\Novio\bin\Debug\netcoreapp3.1\Novio.runtimeconfig.json
+C:\Users\Eterna\source\repos\Novio\bin\Debug\netcoreapp3.1\Novio.runtimeconfig.dev.json
+C:\Users\Eterna\source\repos\Novio\bin\Debug\netcoreapp3.1\Novio.dll
+C:\Users\Eterna\source\repos\Novio\bin\Debug\netcoreapp3.1\Novio.pdb
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.csproj.AssemblyReference.cache
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.Form1.resources
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.csproj.GenerateResource.cache
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.AssemblyInfoInputs.cache
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.AssemblyInfo.cs
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.csproj.CoreCompileInputs.cache
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.dll
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.pdb
+C:\Users\Eterna\source\repos\Novio\obj\Debug\netcoreapp3.1\Novio.genruntimeconfig.cache
